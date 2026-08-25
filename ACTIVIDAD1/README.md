@@ -1,4 +1,3 @@
-![alt text](image.png)
 
 # **Actividad de Clase No. 1:**
 # Descripción de Cuántificadores Lógicos en Código Fuente
