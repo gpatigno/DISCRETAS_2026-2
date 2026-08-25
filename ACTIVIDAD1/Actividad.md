@@ -31,6 +31,6 @@ Dado el **enunciado lógico compartido** en clase a su grupo de trabajo, realice
 
 En el siguiente enlace se encuentra el Formulario de Google para hacer entrega de los elementos indicados a continuación:
 
-https://forms.gle/sBv4syJV2nSDCKRQ9
+https://forms.gle/JCzB545k2AbTNocu6
 
 - COLAB del código fuente desarrollado en la presente actividad.
