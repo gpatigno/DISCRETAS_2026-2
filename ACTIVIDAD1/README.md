@@ -26,7 +26,7 @@ Dado el **enunciado lógico compartido** en clase a su grupo de trabajo, realice
 
 * **2.4 (10%)** Agregue **comentarios explicativos** en el código desarrollado, y luego agregue su nombre y el de sus compañer@s de grupo de trabajo.
 
-# **3. Formulario de entrega de esta Actividad**
+### **3. Formulario de entrega de esta Actividad**
 
 En el siguiente enlace se encuentra el Formulario de Google para hacer entrega de los elementos indicados a continuación:
 
