@@ -6,7 +6,7 @@
 
 3. Grafique el grafo resultante usando el simulador disponible en el siguiente enlace:
 
-   https://visualgo.net/en/mst
+   * https://visualgo.net/en/mst
 
    * Guarde una copia de la imagen del grafo resultante.
 
